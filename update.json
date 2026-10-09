@@ -1,0 +1,11 @@
+{
+  "name": "Birdhouse Content Modules",
+  "slug": "birdhouse-content-modules",
+  "version": "1.6.175",
+  "homepage": "https://github.com/BirdhouseMN/birdhouse-content-modules-releases",
+  "download_url": "https://github.com/BirdhouseMN/birdhouse-content-modules-releases/releases/download/v1.6.175/birdhouse-content-modules.zip",
+  "sections": {
+    "changelog": "<h3>1.6.175</h3><ul><li>Preserve Teams mobile card arrows, logo scrolling, and Divi list resets.</li><li>Preserve restaurant admin grouping, additional information, CSV fields, and left-aligned card links.</li><li>Fix quoted values and Unicode escaping in additional-information JSON imports.</li><li>Add cached WordPress update notifications using public release metadata and ZIP downloads.</li><li>Reject unstable versions and packages outside the approved release repository.</li></ul>",
+    "description": "Reusable content presentation modules for WordPress."
+  }
+}
